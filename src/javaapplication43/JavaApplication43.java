@@ -23,6 +23,7 @@ public class JavaApplication43 {
                     System.out.print("*");}
                 System.out.println("");
                 asterisco+=2;
+                //---
                 espacio-=1;
         }
         while (asterisco >= 1){
